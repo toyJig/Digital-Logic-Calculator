@@ -10,19 +10,20 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 5 | Tier 1 | 8h | 1 |
+| Week 5 | Tier 1 | 9h | 1 |
 
 ## Contents
 
-1. [2026-11-08: So I haven't touched digital logic in a year and might've forgotten some stuff so I started out by messing around with the website and options the website provides to get a feel for it (personally thi](#2026-11-08-so-i-havent-touched-digital-logic-in-a-year-and-m)
+1. [2026-11-08: So I haven't touched digital logic in a year and might've forgotten some stuff so I started out by messing around with the Circuitverse website and options the website provides to get a feel for it (p](#2026-11-08-so-i-havent-touched-digital-logic-in-a-year-and-m)
 
 ## Design
 
-### 2026-11-08: So I haven't touched digital logic in a year and might've forgotten some stuff so I started out by messing around with the website and options the website provides to get a feel for it (personally thi
+### 2026-11-08: So I haven't touched digital logic in a year and might've forgotten some stuff so I started out by messing around with the Circuitverse website and options the website provides to get a feel for it (p
 
-**8h**
+**9h**
 
-So I haven't touched digital logic in a year and might've forgotten some stuff so I started out by messing around with the website and options the website provides to get a feel for it (personally think this website sucks honestly but It'll  probably be fine)
+So I haven't touched digital logic in a year and might've forgotten some stuff so I started out by messing around with the Circuitverse website and options the website provides to get a feel for it (personally think this website sucks honestly but It'll  probably be fine) This was after a little research on which would be the most suitable for this project. I ended up not wanting to go through the trouble of downloading something on linux.
+![image](https://halflife.hackclub-assets.com/sessions/A1g9crjQinL4h8m4FayIpcASMHZiPgLG/b9c87334c9c2c24d016945043286481b56e34a4eed08a754fed59d80825b67d7.png)
 I always wondered how people make calculators and such in Minecraft and Build a Boat for Treasure so I ended up wanting to do something like this for the custom project week.
 Following a tutorial, it ended up being easier than I thought (I've already derived all the gates from flip flops before in the past so I didn't start there). Most of it was more fighting with the website honestly.
 After a bit, I made a 3-bit adder (significant bits on the right). This is 6+5=11:
